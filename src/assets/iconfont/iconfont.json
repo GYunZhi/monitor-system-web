@@ -1,0 +1,30 @@
+{
+  "id": "1593312",
+  "name": "智慧校园-管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3150254",
+      "name": "服务",
+      "font_class": "fuwu",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "7164648",
+      "name": "后台管理",
+      "font_class": "houtaiguanli-",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "8948997",
+      "name": "后台管理",
+      "font_class": "houtaiguanli",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    }
+  ]
+}

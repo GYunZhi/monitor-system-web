@@ -1,0 +1,22 @@
+#app {
+  min-height: 100vh;
+}
+
+// 修改进度条颜色
+#nprogress .bar {
+  background: #409eff !important; //自定义颜色
+}
+
+// 版心
+.container {
+  padding: 20px;
+  min-height: calc(100vh - 118px);
+  background-color: #fff;
+}
+
+// 统一分页样式
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}

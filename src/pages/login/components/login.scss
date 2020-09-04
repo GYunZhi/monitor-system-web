@@ -1,0 +1,34 @@
+.form {
+  margin: auto;
+  padding-top: 25px;
+  .el-form-item {
+    margin-bottom: 26px;
+  }
+  .icon-container {
+    position: absolute;
+    left: 14px;
+    top: 0;
+    z-index: 5;
+    bottom: 0;
+    margin: auto;
+    color: #8d9699;
+    .icon-user {
+      font-size: 22px;
+    }
+    .icon-password {
+      font-size: 21px;
+    }
+  }
+  .toggle-pwd-type {
+    position: absolute;
+    right: 14px;
+    top: 3px;
+  }
+  .submit-btn {
+    margin-top: 4px;
+    width: 100%;
+    padding: 14.7px 20px;
+    font-size: 18px;
+    font-weight: 400;
+  }
+}
