@@ -1,4 +1,4 @@
-const appList = () => import('@/pages/appMag/list')
+const appList = () => import('@/views/appMag/list')
 
 const routes = [
   {

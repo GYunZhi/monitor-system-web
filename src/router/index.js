@@ -4,8 +4,8 @@ import productRoutes from './modules/product'
 import appRoutes from './modules/app'
 import demoRoutes from './modules/demo'
 
-const layout = () => import('@/pages/layout')
-const login = () => import('@/pages/login/index')
+const layout = () => import('@/views/layout')
+const login = () => import('@/views/login/index')
 
 Vue.use(Router)
 

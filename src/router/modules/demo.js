@@ -1,4 +1,4 @@
-const i18n = () => import('@/pages/demo/i18n')
+const i18n = () => import('@/views/demo/i18n')
 
 const routes = [
   {

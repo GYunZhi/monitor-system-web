@@ -1,4 +1,4 @@
-const productList = () => import('@/pages/productMag/list')
+const productList = () => import('@/views/productMag/list')
 
 const routes = [
   {
